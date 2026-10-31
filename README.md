@@ -46,6 +46,10 @@ Status flow: PENDING→ASSIGNED (via assign only)→IN_PROGRESS→RESOLVED; CANC
 
 ## Known limitations / future work
 In-memory data; no authentication; no automated frontend tests; add a database, real auth and notifications later.
+🎥 Project Demonstration Video
+Watch the complete demonstration of our Emergency Assistance Coordinator project.
+
+▶ Watch Project Demonstration on LinkedIn
 
 ## Group contributions
 | Member | Contribution |
